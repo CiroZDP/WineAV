@@ -296,7 +296,7 @@ public class Main {
 	}
 
 	public static void main(String[] args) throws Exception {
-		System.out.println(" ==== MALWAREBYTES SIBERMATICA ====");
+		System.out.println(" ==== WINEAV SIBERMATICA ====");
 		System.out.println("   1. Scan a file");
 		System.out.println("   2. Add hash");
 		System.out.println("   3. Remove hash");

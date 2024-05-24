@@ -1,4 +1,4 @@
-package org.sibermatica.malwarebytes;
+package org.wineav;
 
 import java.io.File;
 import java.io.IOException;
@@ -7,9 +7,9 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.Map.Entry;
 
-import org.sibermatica.malwarebytes.checking.Checksum;
-import org.sibermatica.malwarebytes.checking.SHAChecker;
-import org.sibermatica.malwarebytes.database.Database;
+import org.wineav.checking.Checksum;
+import org.wineav.checking.SHAChecker;
+import org.wineav.database.Database;
 
 public class Main {
 

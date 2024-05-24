@@ -1,4 +1,4 @@
-package org.sibermatica.malwarebytes.util;
+package org.wineav.util;
 
 import java.math.BigInteger;
 import java.util.Base64;

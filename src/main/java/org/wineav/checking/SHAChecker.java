@@ -1,4 +1,4 @@
-package org.sibermatica.malwarebytes.checking;
+package org.wineav.checking;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Set;
 
-import org.sibermatica.malwarebytes.database.*;
+import org.wineav.database.*;
 
 public final class SHAChecker implements DatabaseListener {
 

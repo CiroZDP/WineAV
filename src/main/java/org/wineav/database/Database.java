@@ -1,11 +1,11 @@
-package org.sibermatica.malwarebytes.database;
+package org.wineav.database;
 
 import java.io.*;
 import java.nio.file.Path;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.sibermatica.malwarebytes.util.Utils;
+import org.wineav.util.Utils;
 
 public class Database implements Cloneable {
 

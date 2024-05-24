@@ -1,4 +1,4 @@
-package org.sibermatica.malwarebytes.checking;
+package org.wineav.checking;
 
 public final class Checksum {
 

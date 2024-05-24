@@ -1,4 +1,4 @@
-package org.sibermatica.malwarebytes.database;
+package org.wineav.database;
 
 public interface DatabaseListener {
 

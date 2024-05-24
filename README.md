@@ -1,8 +1,7 @@
 # WineAV
-**WineAV** is an antivirus programmed by [Ciro](https://github.com/CiroZDP) that works with databases.
-I didn't put so much effort, this was just a hobby project that I founded in my computer.
+WineAV is an antivirus programmed by [Ciro](https://github.com/CiroZDP), this antivirus works with databases. I didn't put much effort into it because this project was really an experiment.
 
-I published it here so many people can help to the develop of this antivirus. Even you can create your own antivirus using this as a *base*.
+But I decided to publish it here so that people can contribute by programming and helping me.
 
 ## Advances
 This is what the menu looks like:
